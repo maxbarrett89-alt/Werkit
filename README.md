@@ -1,5 +1,4 @@
 
-<html [workout-chart(3).html](https://github.com/user-attachments/files/32446374/workout-chart.3.html)="en">
 <head>
 <meta charset="UTF-8">
 <title>Weekly Hypertrophy Plan</title>
