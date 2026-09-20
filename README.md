@@ -1,5 +1,4 @@
-[workout-chart.html](https://github.com/user-attachments/files/32444968/workout-chart.html)
-# Werkit<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
