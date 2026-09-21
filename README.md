@@ -1,4 +1,4 @@
-[workout-chart(4).html](https://github.com/user-attachments/files/32449824/workout-chart.4.html)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
